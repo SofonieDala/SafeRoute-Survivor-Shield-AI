@@ -6,5 +6,5 @@ solution bullets + risk map + links to Blogger and YouTube
 - [Youtube Video] (https://youtu.be/vl65p-FVxRY)
 ## Project Description
 SafeRoute Survivor Shield AI is built on survivor dignity, ethical AI, institutional accountability, and actionable pathways — ensuring awareness campaigns are safe, respectful, and effective. It combines survivor testimony, generative AI campaigns, historical photos, and global risk map to expose exploitation, teach real signs, protect dignity, and mobilize communities into action. 
-## Global Risk Map
-![Risk Map](risk-map.png)
+## GALLERY (Evidence & Media Sources)
+[Media](https://disk.yandex.ru/d/juiKYwOArULR2w))
