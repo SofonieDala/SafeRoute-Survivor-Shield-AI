@@ -15,6 +15,4 @@ I am excited to share that I have successfully developed a web-based chatbot des
 This repository contains the web-based chatbot project built to combat human trafficking with assistant integration.
 
 ## Screenshot
-
-![Chatbot Screenshot](https://disk.yandex.ru/i/AvLtldlFsGhknA)
-
+[Chatbot Screenshot] (https://disk.yandex.ru/i/AvLtldlFsGhknA)
