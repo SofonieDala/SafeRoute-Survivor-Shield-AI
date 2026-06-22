@@ -1,3 +1,12 @@
+cd "c:/Users/Sofonie Dala/.gemini/antigravity/scratch/claude-app"
+git init
+git add .
+git commit -m "Initial commit: SafeRoute Hub"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/saferoute-hub.git
+git push -u origin main
+
+
 # SafeRoute-Survivor-Shield-AI
  Prototype combining survivor testimony, generative AI campaigns, and a global risk map to expose exploitation and mobilize communities.
 solution bullets + risk map + links to Blogger and YouTube
