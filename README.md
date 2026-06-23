@@ -26,3 +26,5 @@ This repository contains the web-based chatbot project built to combat human tra
 
 ## Screenshot
 [Chatbot Screenshot] (https://disk.yandex.ru/client/disk/SafeRoute%20gallery?idApp=client&dialog=slider&idDialog=%2Fdisk%2FSafeRoute%20gallery%2FANTIGRAVITY%20CHATBOT.png)
+## DEMO LINKS
+- [SafeRiute HUB] (http://localhost:3000/)
