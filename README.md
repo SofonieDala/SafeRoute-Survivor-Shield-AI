@@ -26,5 +26,21 @@ This repository contains the web-based chatbot project built to combat human tra
 
 ## Screenshot
 [Chatbot Screenshot] (https://disk.yandex.ru/client/disk/SafeRoute%20gallery?idApp=client&dialog=slider&idDialog=%2Fdisk%2FSafeRoute%20gallery%2FANTIGRAVITY%20CHATBOT.png)
+
+##  About SafeRoute Hub
+
 ## DEMO LINKS
 - [SafeRiute HUB] (http://localhost:3000/)
+-
+SafeRoute Hub is an AI-powered anti-human trafficking awareness platform featuring:
+•	Interactive Archive – Explore documented trafficking cases, survivor stories, and case analyses.
+•	AI Chatbot Assistant – Provides information on trafficking warning signs, victim support resources, and awareness strategies using Anthropic Claude 3.5 Sonnet.
+•	Social Media Post Generator – Creates awareness content optimized for platforms such as Youtube, X (Twitter), LinkedIn, Facebook, and Instagram.
+•	Multilingual Support – Uses the Google Translate API to make content accessible in multiple languages.
+The platform is built with a Node.js/Express backend and a JavaScript frontend, leveraging advanced AI-powered natural language processing (NLP) to support education, advocacy, and public awareness efforts.
+
+## SafeRoute Hub - Detailed description
+
+SafeRoute Hub is an AI-powered advocacy platform dedicated to raising awareness about human trafficking through the real-life immigration archive of survivor Sofonie Dala, spanning 21 years across five countries (Russia, South Africa, UK, Rwanda, and Ghana). The platform features three core components: an Interactive Archive documenting three trafficking cases (Russia 2005, USA/Angola 2023, UK 2024) with detailed crime analysis and survivor stories; an AI Chatbot Assistant powered by Anthropic's Claude 3.5 Sonnet that provides empathetic, trauma-informed responses about trafficking warning signs, survivor support, and advocacy strategies; and a Social Media Post Generator that uses advanced AI to create platform-optimized awareness content for Youtube, Twitter/X, LinkedIn, Facebook, and Instagram. Built with Node.js/Express backend, vanilla JavaScript frontend, and integrated with Google Translate API for multilingual accessibility, the platform leverages cutting-edge natural language processing to transform survivor testimony into actionable public education, emphasizing that an informed public is the greatest force multiplier in identifying the 99.7% of trafficking victims who remain invisible.
+
+
