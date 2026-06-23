@@ -29,8 +29,8 @@ This repository contains the web-based chatbot project built to combat human tra
 
 ##  About SafeRoute Hub
 
-## DEMO LINKS
-- [SafeRiute HUB] (http://localhost:3000/)
+
+
 -
 SafeRoute Hub is an AI-powered anti-human trafficking awareness platform featuring:
 •	Interactive Archive – Explore documented trafficking cases, survivor stories, and case analyses.
