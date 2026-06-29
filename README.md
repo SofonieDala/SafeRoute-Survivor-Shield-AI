@@ -1,19 +1,15 @@
-cd "c:/Users/Sofonie Dala/.gemini/antigravity/scratch/claude-app"
-git init
-git add .
-git commit -m "Initial commit: SafeRoute Hub"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/saferoute-hub.git
-git push -u origin main
-
 
 # SafeRoute-Survivor-Shield-AI
  Prototype combining survivor testimony, generative AI campaigns, and a global risk map to expose exploitation and mobilize communities.
 solution bullets + risk map + links to Blogger and YouTube
 ## DEMO LINKS
+
+📰 **Intelligent Decision Support Platforms**
+- [AI solution platform] (https://safe-route-survivor-shield.netlify.app/)
 - [Blogger platform] (https://sofonie-safe-route-anti-trafficking.blogspot.com/)
 - [Youtube Video] (https://youtu.be/vl65p-FVxRY)
 - [Antigravity chatbot] (https://disk.yandex.ru/client/disk/SafeRoute%20gallery?idApp=client&dialog=slider&idDialog=%2Fdisk%2FSafeRoute%20gallery%2FA%20TIGRAVITY%20CHATBOT%20SCREETSHOT.jpg)
+
 ## Project Description
 SafeRoute Survivor Shield AI is built on survivor dignity, ethical AI, institutional accountability, and actionable pathways — ensuring awareness campaigns are safe, respectful, and effective. It combines survivor testimony, generative AI campaigns, historical photos, and global risk map to expose exploitation, teach real signs, protect dignity, and mobilize communities into action. 
 ## GALLERY (Evidence & Media Sources)
@@ -28,9 +24,6 @@ This repository contains the web-based chatbot project built to combat human tra
 [Chatbot Screenshot] (https://disk.yandex.ru/client/disk/SafeRoute%20gallery?idApp=client&dialog=slider&idDialog=%2Fdisk%2FSafeRoute%20gallery%2FANTIGRAVITY%20CHATBOT.png)
 
 ##  About SafeRoute Hub
-
-
-
 -
 SafeRoute Hub is an AI-powered anti-human trafficking awareness platform featuring:
 •	Interactive Archive – Explore documented trafficking cases, survivor stories, and case analyses.
