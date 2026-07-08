@@ -9,7 +9,7 @@ SafeRoute Survivor Shield AI is an AI-powered platform designed to combat human 
 # 🌍 Live Demo
 
 🌐 **AI Solution Platform**
-[Claude](https://safe-route-hub-sofonie-dala.netlify.app/)
+[https://safe-route-hub-sofonie-dala.netlify.app/]
 
 📰 **Project Blog**
 https://sofonie-safe-route-anti-trafficking.blogspot.com/
